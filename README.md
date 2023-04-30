@@ -1,0 +1,2 @@
+# happyScore_income
+Beginner
